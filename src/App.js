@@ -6,7 +6,7 @@ import Add from './component/Add/Add';
 function App() {
   return (
     <div>
-      <h1>Hello</h1>
+      <h1>Hello 1</h1>
          <p>This is para</p>
        <Add a='2' b='2'></Add>
        <Sub a='2' b='2'/>  
